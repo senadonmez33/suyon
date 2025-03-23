@@ -1,3 +1,3 @@
 {
-    "redirect": "firsattekno.com"
+    "redirect": "https://firsattekno.com/"
 }
